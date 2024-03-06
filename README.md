@@ -17,19 +17,24 @@ The core of our analysis lies in constructing a Multiple Linear Regression model
 
 
 ## Results and Discussion
-Our regression analysis revealed significant variables impacting house prices in King County, including the grade of the house, square footage of living areas, and views. Transformation of the price variable to its logarithmic form helped in stabilizing variance, enhancing the model's performance.
 
-Key findings include:
-- Higher-grade houses tend to have higher prices.
-- Larger living areas (both interior and neighboring properties) are associated with higher house prices.
-- Houses with better views are valued higher in the market.
+Given the data and context provided from your R script and the CSV dataset, here is a revised "Results and Discussion" section incorporating more nuanced findings and relating them to broader economic and development considerations:
 
-Our model's accuracy was assessed using the Root Mean Square Error (RMSE), which provided an estimate of the deviation of predicted prices from actual sale prices.
+Results and Discussion
 
-The normality and homoscedasticity assumptions were verified, indicating a good fit for the model. Visual analyses through scatterplots and box plots provided additional insights into the relationship between house features and pricing.
+Our analysis using a Multiple Linear Regression model reveals key factors influencing house prices in King County. The findings not only corroborate common real estate maxims, such as the premium on larger homes and scenic views, but also underline deeper socio-economic dynamics:
 
-These findings can assist in understanding market dynamics and inform potential buyers or sellers in the King County area.
+Size and Price Correlation: Confirming our hypothesis, larger houses command higher prices. This relationship, while anticipated, has nuanced implications for urban development and housing affordability. As cities expand, this trend could drive lower-income residents towards smaller homes or further from city centers, exacerbating suburban sprawl and socio-economic segregation.
 
+View Quality and Market Valuation: Properties with superior views attract premium prices, emphasizing the value placed on natural amenities. This premium can lead to uneven development, where areas with attractive landscapes become enclaves for the affluent, potentially sidelining community-oriented development and contributing to housing inequality.
+
+Economic Development Insights: The distribution of housing prices and features like year built and renovations across different zip codes can inform us about historical and ongoing economic development trends within King County. Areas with rising housing prices might be witnessing economic growth, while stagnant or falling prices could indicate regions facing economic challenges.
+
+Sustainability and Urban Planning: Our findings suggest a demand for features that might not always align with sustainable development goals, such as large lot sizes and waterfront properties. This highlights the need for urban planning policies that balance development desires with environmental sustainability.
+
+Affordability and Development Policy: The clear correlation between housing characteristics and prices underscores the importance of thoughtful development policies to ensure housing remains accessible to a broad demographic. The rising costs associated with desirable features like larger size and better views necessitate policies that support a variety of housing options to maintain diverse, inclusive communities.
+
+These insights extend beyond the academic exercise, reflecting real-world challenges faced by King County residents. They underscore the importance of integrating housing affordability and equitable development into the broader economic framework, ensuring that growth benefits a wide spectrum of the population. As we delve further into the data and expand our analysis, these initial findings serve as a foundation for understanding the complex interplay between real estate markets, urban development, and socioeconomic factors.
 
 ## Contributions
 This project was a collaborative effort by Kevin Huang, Joyce Hung, Afshan Ijaz, and Hamza Kiani for the DA310 course under the guidance of Professor Charlene Cheng. We welcome feedback and contributions to our analysis.
