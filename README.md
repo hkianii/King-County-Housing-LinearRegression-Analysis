@@ -37,4 +37,4 @@ Affordability and Development Policy: The clear correlation between housing char
 These insights extend beyond the academic exercise, reflecting real-world challenges faced by King County residents. They underscore the importance of integrating housing affordability and equitable development into the broader economic framework, ensuring that growth benefits a wide spectrum of the population. As we delve further into the data and expand our analysis, these initial findings serve as a foundation for understanding the complex interplay between real estate markets, urban development, and socioeconomic factors.
 
 ## Contributions
-This project was a collaborative effort by Kevin Huang, Joyce Hung, Afshan Ijaz, and Hamza Kiani for the DA310 course under the guidance of Professor Charlene Cheng. We welcome feedback and contributions to our analysis.
+This project was a collaborative effort by Hamza Kiani and Afshan Ijaz as leads and Kevin Huang, Joyce Hung on additional research duties for DA310 course under the guidance of Professor Charlene Cheng. We welcome feedback and contributions to our analysis.
